@@ -10,6 +10,7 @@ namespace myfirstconsolr
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to C#");
             Console.WriteLine("Hello World");
 
         }
